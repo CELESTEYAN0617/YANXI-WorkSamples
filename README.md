@@ -16,7 +16,7 @@ A browser game controlled via sound input from Arduino sensors.
 ## 🔹 Find the BALL (2D Web Game)
 A pixel-style mini-game created using ZIM.js, featuring object finding and interaction.
 - GitHub: [zim_individual](https://github.com/CELESTEYAN0617/zim_individual)
-- Demo video: [Find the BALL]()
+- Demo video: [Find the BALL](https://www.youtube.com/watch?v=vBe-alpGUY8)
 
 
 ## 🔹 Bubble Rescue (PWA Game)
