@@ -5,8 +5,8 @@ This repository provides an overview of selected programming and interactive gam
 
 ## 🔹 Procedural Lighting System for Blender
 A custom Blender add-on for generating modular lighting setups using procedural logic. Built in Python, the tool supports preset configurations and real-time updates within the Shader Editor.
--GitHub: https://github.com/CELESTEYAN0617/BlenderAddon-lighting
--Demo video: 
+- GitHub: https://github.com/CELESTEYAN0617/BlenderAddon-lighting
+- Demo video: 
 
 ## 🔹 Little Turkey Adventure (Voice-Controlled Game)
 An experimental game controlled by voice input through an Arduino sound sensor. Developed with JavaScript, using real-time serial communication between hardware and browser. 
