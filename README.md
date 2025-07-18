@@ -22,4 +22,4 @@ A browser-based 2D pixel game where players must identify the hidden target amon
 ## 🔹 Bubble Rescue (PWA Game)
 A rhythm-based browser game where players rescue animals trapped in floating bubbles. Built as a full PWA using JavaScript, ZIM.js, and mobile-optimized interactions. 
 - GitHub: [PWA](https://github.com/CELESTEYAN0617/PWA)
-- Demo: [Bubble Rescue](https://bubble-rescue-bd5f4c83b19d.herokuapp.com/)
+- Demo: [Bubble Rescue](https://celesteyan0617.github.io/PWA/)
