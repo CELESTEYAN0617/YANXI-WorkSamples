@@ -7,7 +7,7 @@ This repository provides an overview of selected programming and interactive gam
 **Libraries**: React Flow, Three.js, Next.js  
 **Description**: A browser-based tool inspired by Blender's Geometry Nodes. Users build 3D models using visual scripting through node connections.
 // All code in this project was written solely by XI YAN as part of a personal work sample for Sheridan College.
-- GitHub: 
+- GitHub: https://github.com/pajamadot/geometry-node
 - Demo: https://geometry.pajamadot.com/
 
 ## 🔹 Procedural Lighting System for Blender
