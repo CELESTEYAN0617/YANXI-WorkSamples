@@ -7,14 +7,15 @@ This repository provides an overview of selected programming and interactive gam
 **Libraries**: React Flow, Three.js, Next.js  
 **Description**: A browser-based tool inspired by Blender's Geometry Nodes. Users build 3D models using visual scripting through node connections.
 // All code in this project was written solely by XI YAN as part of a personal work sample for Sheridan College.
-- GitHub: https://github.com/pajamadot/geometry-node
-- Demo: https://geometry.pajamadot.com/
+- GitHub: [https://github.com/pajamadot/geometry-node]
+- Demo: [https://geometry.pajamadot.com/]
+- Demo Video: [https://www.youtube.com/watch?v=d-0wHBIRotM]
 
 ## 🔹 Procedural Lighting System for Blender
 **Description**: A custom Blender add-on for generating modular lighting setups using procedural logic. Built in Python, the tool supports preset configurations and real-time updates within the Shader Editor.
 // All code in this project was written solely by XI YAN as part of a personal work sample for Sheridan College.
-- GitHub: https://github.com/CELESTEYAN0617/BlenderAddon-lighting
-- Demo video: https://www.youtube.com/watch?v=81r2et3QIlY
+- GitHub: [https://github.com/CELESTEYAN0617/BlenderAddon-lighting]
+- Demo video: [https://www.youtube.com/watch?v=81r2et3QIlY]
 
 ## 🔹 Little Turkey Adventure (Voice-Controlled Game)
 **Description**: An experimental game controlled by voice input through an Arduino sound sensor. Developed with JavaScript, using real-time serial communication between hardware and browser. 
