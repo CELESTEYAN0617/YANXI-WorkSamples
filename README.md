@@ -1,7 +1,3 @@
-# Sheridan Game Development – Advanced Programming (Work Samples)
-
-This repository provides an overview of selected programming and interactive game projects by YANXI. The focus is on graphics programming, interaction systems, and real-time rendering – aligned with the Technical Artist role.
-
 ## 🔹 Node-Based 3D Geometry Editor  
 **Languages**: JavaScript  
 **Libraries**: React Flow, Three.js, Next.js  
